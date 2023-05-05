@@ -1,0 +1,88 @@
+circle {
+    opacity: 0.5;
+  }
+
+  .caption {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 0px;
+  }
+
+  #chart {
+    margin-bottom: 20px; 
+}
+
+button {
+  background-color: #4CAF50; /* Green background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 15px 32px; /* Some padding */
+  text-align: center; /* Centered text */
+  text-decoration: none; /* Remove underline */
+  display: inline-block;
+  font-size: 10px; /* Increase font size */
+  margin: 4px 2px; /* Some margin */
+  transition-duration: 0.4s; /* Transition effect */
+  border-radius: 12px; /* Rounded corners */
+}
+
+button:hover {
+  background-color: #45a049; /* Green background on hover */
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #555;
+}
+
+h1 {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#chart, #chart2 {
+  background-color: #fff;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3);
+  max-width: 1000px;
+}
+
+button {
+  background-color: #333;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 2px;
+  border-radius: 5px;
+  transition: background 0.5s ease;
+}
+
+button:hover {
+  background-color: #4CAF50;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+

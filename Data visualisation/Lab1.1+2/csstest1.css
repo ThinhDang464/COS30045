@@ -1,0 +1,119 @@
+body {
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 600;
+    background-image: linear-gradient(to left, #553c9a, #b393d3);
+    color: transparent;
+    background-clip: text;
+    margin-bottom: 0cm;
+}
+
+h2{
+    color:black;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 1cm;
+    margin-top: 0cm;
+    font-style: italic;
+}
+
+.title{
+    color:black;
+    font-weight: bold;
+    margin:0;
+    font-size: 20px;
+}
+
+ol{
+    margin:0;
+    color:black;
+    font-size: large;
+    margin-top: 0%;
+}
+
+ul{
+    margin:0;
+    color:black;
+    font-size: large;
+    margin-top: 0%;
+}
+
+.title2{
+    color: black;
+    font-weight: bold;
+    margin: 0;
+    font-size: 20px;
+}
+
+.title3{
+    color: black;
+    font-weight: bold;
+    margin-top: 1cm;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+#title4{
+    color: black;
+    font-weight: bold;
+    margin-top: 1cm;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+#para2{
+    color:black;
+    font-size: large;
+    margin-top: 0%;
+}
+.para1{
+    color:black;
+    font-size: large;
+    margin-top: 0%;
+}
+img{
+    width: 700px;
+    
+}
+figure{
+    text-align: center;
+}
+figcaption{
+    font-style: italic;
+}
+
+.button{
+    margin-top: 1cm;
+}
+
+.btn1{
+    font-size: 18px;
+    color: white;
+    background-color: brown;
+    border: none;
+}
+
+.btn2{
+    font-size: 18px;
+    color: white;
+    background-color: blue;
+    border: none;
+}
+
+.btn3{
+    font-size: 18px;
+    color: white;
+    background-color:brown;
+    border: none;
+}
+
+.container{
+    text-align: center;
+}
+footer{
+    font-style:italic;
+    font-weight: bold;
+    background: #eee;
+}

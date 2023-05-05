@@ -1,0 +1,14 @@
+footer{
+    position:absolute;
+    bottom: 0cm;
+    color: brown;
+} 
+/* moving footer down and change color */
+
+button{
+    position: absolute;
+}
+
+#chart {
+    margin-top: 20px;
+  }

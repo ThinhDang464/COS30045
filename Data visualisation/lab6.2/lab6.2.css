@@ -1,0 +1,32 @@
+footer{
+    position:absolute;
+    bottom: 0cm;
+    color: brown;
+} 
+/* moving footer down and change color */
+
+button{
+    
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 50px;
+   
+}
+#button1 {
+    background-color: blue;
+    color: white;
+  }
+#button2 {
+    background-color: brown;
+    color: white;
+  }
+#button3 {
+    background-color: red;
+    color: white;
+  }
+
+#chart {
+   
+    margin-top: 10px;
+    
+  }

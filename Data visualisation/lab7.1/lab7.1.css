@@ -1,0 +1,23 @@
+footer{
+    position:absolute;
+    bottom: 0;
+    color:brown;
+    background-color: #eee;
+}
+
+.line{
+    fill:none;
+    stroke: slategrey;
+    stroke-width: 0.5;
+}
+
+.halfMilMark{
+    stroke: red;
+    position: relative;
+    z-index: 1;
+}
+
+.area{
+    fill:grey;
+    z-index: 0;
+}
